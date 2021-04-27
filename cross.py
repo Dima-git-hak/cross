@@ -72,7 +72,7 @@ class TicTacToe:
     def help(self):
         """Print Instructions"""
 
-        print(f"\n\n{C}TIC-TAC-TOE")
+        print(f"\n\n{C}Крестики-нолики! Автор Дмитрий")
         print(f"{C}", '='*50, "\n", sep='')
         print(f"{R}Как играть:{N}\n")
         print("Введите позицию для воспроизведения хода:\n")
